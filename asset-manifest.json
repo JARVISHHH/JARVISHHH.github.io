@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.11b3b443.css",
-    "main.js": "/static/js/main.2a053251.js",
+    "main.js": "/static/js/main.bef0b059.js",
     "static/js/787.d9a49430.chunk.js": "/static/js/787.d9a49430.chunk.js",
     "static/media/home.mp4": "/static/media/home.bb43f9730aa282f0f01d.mp4",
-    "static/media/YingtongYu_SDE_Ch.pdf": "/static/media/YingtongYu_SDE_Ch.acf02a3ea525dfbe004a.pdf",
-    "static/media/YingtongYu_SDE_Eng.pdf": "/static/media/YingtongYu_SDE_Eng.acf02a3ea525dfbe004a.pdf",
+    "static/media/YingtongYu_SDE_Ch.pdf": "/static/media/YingtongYu_SDE_Ch.950fb3f9cd68f063ddcc.pdf",
+    "static/media/YingtongYu_SDE_Eng.pdf": "/static/media/YingtongYu_SDE_Eng.950fb3f9cd68f063ddcc.pdf",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.11b3b443.css.map": "/static/css/main.11b3b443.css.map",
-    "main.2a053251.js.map": "/static/js/main.2a053251.js.map",
+    "main.bef0b059.js.map": "/static/js/main.bef0b059.js.map",
     "787.d9a49430.chunk.js.map": "/static/js/787.d9a49430.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.11b3b443.css",
-    "static/js/main.2a053251.js"
+    "static/js/main.bef0b059.js"
   ]
 }
